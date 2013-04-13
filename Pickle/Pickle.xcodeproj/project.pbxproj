@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D7D2612171927E5002FA6F3 /* Pickle_Coding_Links in Resources */ = {isa = PBXBuildFile; fileRef = 9D7D2611171927E5002FA6F3 /* Pickle_Coding_Links */; };
 		D882082617191D6B00D74162 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D882082517191D6B00D74162 /* UIKit.framework */; };
 		D882082817191D6B00D74162 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D882082717191D6B00D74162 /* Foundation.framework */; };
 		D882082A17191D6B00D74162 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D882082917191D6B00D74162 /* CoreGraphics.framework */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9D7D2611171927E5002FA6F3 /* Pickle_Coding_Links */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Pickle_Coding_Links; sourceTree = "<group>"; };
 		D882082217191D6B00D74162 /* Pickle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pickle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D882082517191D6B00D74162 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D882082717191D6B00D74162 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -136,6 +138,7 @@
 				D882082D17191D6B00D74162 /* Pickle-Info.plist */,
 				D882082E17191D6B00D74162 /* InfoPlist.strings */,
 				D882083117191D6B00D74162 /* main.m */,
+				9D7D2611171927E5002FA6F3 /* Pickle_Coding_Links */,
 				D882083317191D6B00D74162 /* Pickle-Prefix.pch */,
 				D882083717191D6B00D74162 /* Default.png */,
 				D882083917191D6B00D74162 /* Default@2x.png */,
@@ -240,6 +243,7 @@
 				D882083C17191D6B00D74162 /* Default-568h@2x.png in Resources */,
 				D882083F17191D6B00D74162 /* MainStoryboard_iPhone.storyboard in Resources */,
 				D882084217191D6B00D74162 /* MainStoryboard_iPad.storyboard in Resources */,
+				9D7D2612171927E5002FA6F3 /* Pickle_Coding_Links in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -467,6 +471,7 @@
 				D882085F17191D6B00D74162 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D882086017191D6B00D74162 /* Build configuration list for PBXNativeTarget "PickleTests" */ = {
 			isa = XCConfigurationList;
@@ -475,6 +480,7 @@
 				D882086217191D6B00D74162 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
